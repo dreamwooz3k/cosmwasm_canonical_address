@@ -1,0 +1,2 @@
+# cosmwasm_canonical_address
+cosmwasm_canonical_address
